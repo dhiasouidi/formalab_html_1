@@ -4,10 +4,25 @@
 }
 .parableu{
     color: blue;
-    border: 1px solid green
+    border: 1px solid green;
     
 }
 p{
     color: aqua;
     
+}
+.vt{
+    color: blueviolet;
+}
+.bord{
+    border: 1px solid brown
+}
+a{
+    color: red;text-decoration: none;
+}
+a:hover{
+    color: green;text-decoration: underline;
+}
+a:visited{
+    color: grey;
 }
